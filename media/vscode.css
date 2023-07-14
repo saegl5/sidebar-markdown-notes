@@ -77,7 +77,7 @@ textarea {
   display: block;
   width: 100%;
   border: none;
-  font-family: var(--vscode-font-family);
+  font-family: 'Comic Neue'; /*var(--vscode-font-family);*/
   font-size: var(--vscode-editor-font-size);
   padding: var(--input-padding-vertical) var(--input-padding-horizontal);
   color: var(--vscode-input-foreground);
